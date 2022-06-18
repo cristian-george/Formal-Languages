@@ -1,0 +1,10 @@
+﻿  Grammar.cpp
+D:\Facultate\ANUL 2\Semestrul 1\Limbaje formale şi compilatoare\Laboratoare\2. Temă gramatici generative\GenerativeGrammar\Grammar.cpp(75,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  Source.cpp
+  ProductionRule.cpp
+  Generating Code...
+  Gramatică.vcxproj -> D:\Facultate\ANUL 2\Semestrul 1\Limbaje formale şi compilatoare\Laboratoare\2. Temă gramatici generative\GenerativeGrammar\Debug\Gramatică.exe

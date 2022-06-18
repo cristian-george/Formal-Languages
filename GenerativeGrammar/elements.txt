@@ -1,0 +1,90 @@
+3
+S A B
+3
+a b c
+S
+7
+S abc
+S aAbc
+Ab bA
+Ac Bbcc
+bB Bb
+aB aa
+aB aaA
+
+
+
+3
+S A C
+3
+a b c
+S
+5
+S AC
+A aAb
+A ab
+C cC
+C *
+
+
+
+SBC
+abc
+S
+
+8
+S aSBC
+S aBC
+aB ab
+bB bb
+cC Cc
+bC bc
+CB BC
+cB Bc
+
+
+
+
+S
+ab
+S
+
+2
+S *
+S aSb
+
+
+
+SAC
+abc
+S
+
+5
+S abAC
+A aAb
+A ab
+C cC
+C c
+
+
+
+S
+01
+S
+
+2 
+S *
+S 0S1
+
+
+
+AS
+ab
+S
+
+5
+S abS
+S aSAb
+S aA
+A aAb
+A a
